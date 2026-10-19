@@ -1,0 +1,26 @@
+h1{ 
+color: rgb(160, 0, 223);
+background-color:rgb(245, 231, 128);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 100;
+}
+
+h2{ 
+    color: rgb(177, 14, 128);
+background-color: rgb(245, 231, 128);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h3{ 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color: rgb(245, 231, 128);
+}
+
+img { 
+    border:2px solid rgb(255, 0, 119)
+
+}
+a:hover {
+    background-color: rgb(170, 243, 0)
+}
